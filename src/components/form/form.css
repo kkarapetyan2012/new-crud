@@ -1,0 +1,19 @@
+.example-input .ant-input {
+    width: 100%;
+    margin: 0 8px 8px 0;
+    padding: 5px 15px;
+    border-radius: 5px;
+    height: 50px;
+    border: 0;
+    box-sizing: border-box;
+    color: darkblue;
+}
+
+.ant-btn {
+    width: 150px;
+    height: 50px;
+    border: 0;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: chartreuse;
+}
